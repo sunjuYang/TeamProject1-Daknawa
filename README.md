@@ -1,1 +1,1 @@
-# The search website for the Chicken's information
+# The website for the search Chicken's information
