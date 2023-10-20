@@ -1,1 +1,1 @@
-# 치킨브랜드 정보 찾기 홈페이지
+# The search website for the Chicken's information
